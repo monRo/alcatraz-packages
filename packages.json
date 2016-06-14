@@ -1,0 +1,68 @@
+{
+	"packages": {
+		"plugins": [
+			{
+        		"name": "Anglerfish",
+        		"url": "https://github.com/dealforest/Anglerfish",
+        		"description": "sort the recently used simulators ",
+        		"screenshot": "https://raw.githubusercontent.com/dealforest/Anglerfish/master/images/simulators.png"
+      		},
+      		{
+      			"name": "Cichlid",
+      			"url": "https://github.com/dealforest/Cichlid",
+      			"description": "It will be automatically removed DerivedData when you run the clean",
+      			"screenshot": "https://raw.githubusercontent.com/dealforest/Cichlid/master/images/cichlid.png"
+    		},
+    		{
+        		"name": "CocoaPods",
+        		"url": "https://github.com/kattrali/cocoapods-xcode-plugin",
+        		"description": "CocoaPods integration right in Xcode",
+        		"screenshot": "https://raw.github.com/kattrali/cocoapods-xcode-plugin/master/menu.png"
+      		},
+      		{
+        		"name": "DefaultMarginDisabler",
+        		"url": "https://github.com/mshibanami/DefaultMarginDisabler",
+        		"description": " Xcode Plugin sets a default value of 'Constrain to margins' to disabled.",
+        		"screenshot": "https://raw.githubusercontent.com/mshibanami/DefaultMarginDisabler/master/screenshot.png"
+      		},
+      		{
+      			"name": "FixCode",
+      			"url": "https://github.com/fastlane/FixCode",
+      			"description": "Fixing the 'Fix Issues' button.",
+      			"screenshot": "https://raw.githubusercontent.com/fastlane/FixCode/master/FixIssueButton.jpg"
+      		},
+      		{
+      			"name": "HCTemplet",
+      			"url": "https://github.com/dongjiali/HCTemplet",
+      			"description": "HCTemplet is create custom templates",
+      			"screenshot": "http://raw.github.com/dongjiali/HCTemplet/master/Screenshots/templet.png"
+    		},
+    		{
+       			"name": "JsonFormatter",
+        		"url": "https://github.com/MilkerLiu/JsonFormatter.git",
+        		"description": "Json Text format",
+        		"screenshot": "https://raw.githubusercontent.com/MilkerLiu/JsonFormatter/master/screenshot.gif"
+      		},
+      		{
+        		"name": "PreciseCoverage",
+        		"url": "https://github.com/zats/PreciseCoverage",
+        		"description": "Make Xcode code coverage more informative.",
+        		"screenshot": "https://raw.githubusercontent.com/zats/PreciseCoverage/master/screenshot.png"
+      		},
+      		{
+        		"name": "VVDocumenter-Xcode",
+        		"url": "https://github.com/onevcat/VVDocumenter-Xcode",
+        		"description": "Xcode plug-in which helps you write Javadoc style documents easier.",
+        		"screenshot": "https://raw.github.com/onevcat/VVDocumenter-Xcode/master/ScreenShot.gif"
+      		}
+		],
+		"color_schemes": [
+			{
+        		"name": "Taskworld",
+       			"url": "https://raw.githubusercontent.com/kindraywind/xcode-themes/master/Taskworld.dvtcolortheme",
+        		"description": "Dark theme inspired by Sublime's monokai",
+        		"screenshot": "https://raw.githubusercontent.com/kindraywind/xcode-themes/master/ScreenShots/taskworldtheme.png"
+      		}
+		]
+	}
+}
