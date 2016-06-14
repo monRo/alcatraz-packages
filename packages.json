@@ -54,6 +54,12 @@
         		"url": "https://github.com/onevcat/VVDocumenter-Xcode",
         		"description": "Xcode plug-in which helps you write Javadoc style documents easier.",
         		"screenshot": "https://raw.github.com/onevcat/VVDocumenter-Xcode/master/ScreenShot.gif"
+      		},
+      		{
+       			"name": "FKRealGroup",
+       			"url": "https://github.com/Forkong/FKRealGroup",
+			"description": "A plugin for Xcode to enhance create and delete groups.",
+       			"screenshot": "https://raw.githubusercontent.com/Forkong/FKRealGroup/master/ScreenShots/fkrealgroup_1.jpg"
       		}
 		],
 		"color_schemes": [
